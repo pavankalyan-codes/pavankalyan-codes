@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pavankalyan141640@gmail.com**
 
-- 📄 Know about my experiences [https://pavankalyan-codes.github.io/assets/PavanKalyanC_Resume.pdf](https://pavankalyan-codes.github.io/assets/PavanKalyanC_Resume.pdf)
+- 📄 Know about my experiences [https://pavankalyan-codes.github.io/assets/PavanKalyanC_Resume.pdf](https://pavankalyan-codes.github.io/PavanKalyanC_Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
