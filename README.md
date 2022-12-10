@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Kalyan C</h1>
-<h3 align="center">A passionate frontend developer from India who is interested in creating rich user interfaces and interactive web apps using JavaScript.</h3>
+<h3 align="center">A passionate frontend developer from India who loves to develop web applications using .NET Core/JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalyan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyan-codes" /> </p>
 
