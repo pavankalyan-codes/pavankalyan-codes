@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pkk_js" target="blank"><img src="https://img.shields.io/twitter/follow/pkk_js?logo=twitter&style=for-the-badge" alt="pkk_js" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, RxJs**
+- 🌱 I’m currently learning **gRPC**
 
 - 👨‍💻 All of my projects are available at [https://pavankalyan-codes.github.io/](https://pavankalyan-codes.github.io/)
 
