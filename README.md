@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://pavankalyan-c.medium.com/](https://pavankalyan-c.medium.com/)
 
-- 💬 Ask me about **Javascript, Html, Css, Node, Core Java**
+- 💬 Ask me about **Dotnet coore, C#, Angular, Javascript, Html, Css, Node, Core Java**
 
 - 📫 How to reach me **pavankalyan141640@gmail.com**
 
