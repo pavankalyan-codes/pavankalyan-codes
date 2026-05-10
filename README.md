@@ -12,12 +12,6 @@ maintainability, and real-world business impact.
   <img src="https://komarev.com/ghpvc/?username=pavankalyan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyan-codes" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/pkk_js" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pkk_js?logo=twitter&style=for-the-badge" alt="pkk_js" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
